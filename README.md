@@ -1,4 +1,6 @@
 # immotechno
+End-of-training project for the 'Python Developer for Odoo' training at Technocité, carried out by a team of 5 trainees.
+
 Immotechno app allow you to manage your properties.
 
 It contains three modules:
